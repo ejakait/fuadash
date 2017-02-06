@@ -1,0 +1,20 @@
+2017-02-06T10:12:37.874294473 0.220545s notice: Recursively removing directory /home/ejakait/dev/laravel/fuadash/rethinkdb_data/tmp
+2017-02-06T10:12:37.899178051 0.245431s notice: Initializing directory /home/ejakait/dev/laravel/fuadash/rethinkdb_data
+2017-02-06T10:12:37.899259982 0.245511s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory '/home/ejakait/dev/laravel/fuadash/rethinkdb_data' did not already exist or is empty.)
+2017-02-06T10:12:37.912825268 0.259076s notice: Running rethinkdb 2.3.5~0yakkety (GCC 6.2.0)...
+2017-02-06T10:12:37.915149709 0.261402s notice: Running on Linux 4.8.0-34-generic x86_64
+2017-02-06T10:12:37.915196876 0.261447s notice: Loading data from directory /home/ejakait/dev/laravel/fuadash/rethinkdb_data
+2017-02-06T10:12:38.313592795 0.659845s info: Automatically using cache size of 1783 MB
+2017-02-06T10:12:38.340280063 0.686531s notice: Listening for intracluster connections on port 29015
+2017-02-06T10:12:38.383399164 0.729650s notice: Listening for client driver connections on port 28015
+2017-02-06T10:12:38.383504308 0.729755s notice: Listening for administrative HTTP connections on port 8080
+2017-02-06T10:12:38.383507925 0.729758s notice: Listening on cluster addresses: 127.0.0.1, 127.0.1.1, ::1
+2017-02-06T10:12:38.383509552 0.729760s notice: Listening on driver addresses: 127.0.0.1, 127.0.1.1, ::1
+2017-02-06T10:12:38.383511056 0.729761s notice: Listening on http addresses: 127.0.0.1, 127.0.1.1, ::1
+2017-02-06T10:12:38.383513546 0.729764s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2017-02-06T10:12:38.383515071 0.729765s notice: Server ready, "atrium_661" 767053ca-fb82-4692-9adb-65c27b8ccb6d
+2017-02-06T12:13:06.853489914 7229.199741s notice: Server got SIGINT from pid 0, uid 0; shutting down...
+2017-02-06T12:13:06.853572158 7229.199823s notice: Shutting down client connections...
+2017-02-06T12:13:06.853615301 7229.199866s notice: All client connections closed.
+2017-02-06T12:13:06.853616838 7229.199867s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2017-02-06T12:13:06.885078374 7229.231329s notice: Storage engine shut down.
